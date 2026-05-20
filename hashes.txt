@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Inside Fire
+
+This log tracks the cryptographic history and versioning for the song **Inside Fire** (inside-fire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:11:59.660300 | `v1` | `b60b36ef5f30a0490e4e5fb32784acca93247cfac2a578fe1f455df01014c02b` | `216ec1c6be2be13e5447abfad27e9310c536409433c16e3b607df342b13d4735` | `2026-05-20_inside-fire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
