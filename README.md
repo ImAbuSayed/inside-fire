@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat de hanere ch tera haasa feels right
+> Main machda haan tere ishq ch all night
+> Bullan te teri chup te akhiyan ch dark fire
+> Main rukda nahi ajj kho baitha my desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
